@@ -71,3 +71,25 @@
 ---
 
 ## 🛠️ Unified Technical Stack
+---
+
+## 🏆 Key Recognitions & Hackathons
+
+- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Shortlisted among top national entries out of **1,000+ teams** for Cosmolyze.
+- 🥇 **Innovators Hackathon 2026 (National Level):** Secured top recognition for Trinity X AI fraud detection prototype.
+- 🚀 **GenAI Buildathon (State Level):** Qualified for state rounds by building an AI assistant using GPT-4o and n8n.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity & Proof of Work
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanNimje&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNimje&layout=compact&theme=tokyonight&hide=html,css"/>
+
+<br/>
+
+**Open for Associate Product Manager (APM), Associate Solution Architect, and Software Engineering Roles.**
+
+</div>
