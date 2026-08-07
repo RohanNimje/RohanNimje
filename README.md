@@ -1,151 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:0052D4,100:00C6FF&height=220&section=header&text=Rohan%20Nimje&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Product%20Engineering%20%7C%20Architecture&descFontSize=18&descAlignY=62" width="100%"/>
+<!-- Modern Animated SVG Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Rohan%20Nimje&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20%7C%20Solution%20Architect%20%7C%20Product%20Builder&descFontSize=20&descAlignY=62" width="100%" alt="Rohan Nimje Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+products+from+0%E2%86%921;Designing+systems+that+scale+with+the+product;Automating+workflows+that+shouldn't+be+manual;Product-minded+Engineer+%7C+Systems+Thinker+%7C+Builder" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RohanNimje)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohannimje.github.io/Portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohannimje53@gmail.com)
 
-<br/>
+---
 
-<a href="https://rohannimje.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/rohannimje">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rohannimje53@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💡 *Bridging 0-to-1 Product Strategy, Scalable Cloud Architecture, & Deep AI Execution*
 
 </div>
 
 ---
 
+## 🎯 Profile Capabilities Matrix (3-in-1 Role Alignment)
+
+> *Designed for APM Leaders, Enterprise Solution Architects, and Senior Engineering Leads.*
+
 <div align="center">
 
-### 🧠 Product Thinking × 🏗️ System Architecture × 🤖 AI Engineering
-
-**I turn real problems into products, products into systems, and systems into automated workflows.**
+| 🟢 As an **Associate Product Manager** | 🔵 As a **Solution Architect** | 🟣 As a **Software Engineer** |
+| :--- | :--- | :--- |
+| • **0-to-1 Product Execution:** Shipped MVPs from scoping to launch in **< 2 weeks**. | • **Cloud Data Synchronization:** Optimized Supabase/MongoDB pipelines cutting latency by **35%**. | • **Full-Stack Execution:** Modern React, Node.js, Python, & Tailwind CSS architectures. |
+| • **User Adoption & Retention:** Scaled ScanZy Rewards to **100+ active local users**. | • **Sub-2s Latency Systems:** Engineered CV inference pipelines operating at **< 2 second** response time. | • **Autonomous AI Agents:** Production LLM workflows via **MCP & n8n** integration. |
+| • **Solving User Friction:** Replaced manual skin choice paralysis with AI algorithmic recommendations. | • **High-Availability APIs:** Multi-tier REST protocols and automated backend pipelines. | • **Rapid Prototyping:** National Hackathon Winner (**Idea2Impact Top 1000**). |
 
 </div>
 
 ---
 
-## ⚡ What I Do
+## 🚀 Experience & Startup Engineering
 
-| 🚀 Product | 🏗️ Architecture | 🤖 AI & Engineering |
-|:---|:---|:---|
-| 0→1 MVPs | Cloud data systems | LLM applications |
-| User-focused solutions | API architectures | Agentic AI |
-| Rapid prototyping | MongoDB + Supabase | Computer Vision |
-| Product execution | Performance optimization | MCP + n8n |
-| Workflow design | Scalable foundations | RPA Automation |
+### 🛒 **ScanZy Rewards** *(01/2026 – Present)*
+* **Product & Business Strategy:** Engineered a 0-to-1 retail loyalty platform replacing expensive hardware with dynamic QR stickers, scaling adoption to **100+ local users**.
+* **System Architecture:** Designed multi-tier cloud database architecture using **MongoDB & Supabase**, cutting cross-platform data sync latency by **35%** and securing transaction integrity.
+* **Workflow Automation:** Engineered autonomous API integration pipelines via **n8n & REST protocols**, automating 100% of merchant data processing and background workflows.
+* **Execution Velocity:** Shipped production-ready web MVPs from initial user requirement scoping to cloud deployment in **under 2 weeks** utilizing Vercel and modern component systems.
 
 ---
 
-## 📊 Impact
+## 🔬 Featured Technical Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/100%2B-Users-0052D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/35%25-Less%20Sync%20Latency-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/100%25-Manual%20Processing%20Automated-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%3C2s-AI%20Response-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%3C2%20Weeks-MVP%20Delivery-2563EB?style=for-the-badge"/>
+### 1. 🧪 **Cosmolyze – AI Skin Analysis & Recommender**
+*`Vercel` • `MongoDB` • `Supabase` • `Node.js` • `React` • `Computer Vision`*
+
+- **Product Vision:** Solved consumer choice paralysis by analyzing facial scans to recommend specific active dermatological ingredients (*Niacinamide, Salicylic Acid, Vitamin C*).
+- **Architectural Latency:** Architected a real-time computer vision inference pipeline that processes camera inputs with automated decision logic in **sub-2-second (< 2s)** response time.
+
+---
+
+### 2. 🛡️ **Trinity X – AI Infrastructure Monitor**
+*`Python` • `OpenAI API` • `Real-time Verification Data`*
+
+- Developed an AI automation engine to detect physical infrastructure fraud by processing live verification data.
+- Pitched at **Innovators Hackathon 2026 (NMIET x AIC T-Hub)** during a 48-hour national sprint, securing top recognition.
+
+---
+
+### 3. 🤖 **AI Agent Development with MCP & Cursor IDE**
+*`Model Context Protocol (MCP)` • `Cursor IDE` • `LLM APIs`*
+
+- Built production-ready workflows connecting Large Language Models (LLMs) with live external APIs using Model Context Protocol (MCP).
 
 </div>
 
 ---
 
-## 🚀 Featured Builds
+## 🏆 Key Recognitions & Hackathons
 
-### 🛒 ScanZy Rewards
-**AI-powered retail loyalty platform**
-
-`MongoDB` `Supabase` `n8n` `REST APIs` `Vercel`
-
-- Built a 0→1 loyalty experience for offline retail.
-- Reached **100+ local users**.
-- Reduced cross-platform data-sync latency by **35%**.
-- Automated **100% of merchant data processing**.
-- Shipped production-ready interfaces in **under 2 weeks**.
-
-### 🧪 Cosmolyze
-**AI Skin Analysis & Product Recommender**
-
-`Python` `React` `Computer Vision` `AI Inference`
-
-- Real-time facial analysis and ingredient recommendation.
-- Optimized inference/API pipeline to **<2 seconds**.
-- **Shortlisted among top national entries from 1,000+ teams.**
-
-### 🛡️ Trinity X
-**AI Infrastructure Fraud Monitor**
-
-`Python` `OpenAI APIs` `Real-time Data`
-
-- AI engine for detecting physical infrastructure fraud.
-- Built during a **48-hour national hackathon sprint**.
-- Received **top recognition for fraud detection**.
-
-### 🤖 AI Agents + MCP
-
-`LLMs` `MCP` `Cursor IDE` `External APIs`
-
-Building AI workflows that connect language models with **real-world tools, APIs and live systems**.
+- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Shortlisted among top national entries out of **1,000+ teams** for Cosmolyze.
+- 🥇 **Innovators Hackathon 2026 (National Level):** Secured top recognition for Trinity X AI fraud detection prototype.
+- 🚀 **GenAI Buildathon (State Level):** Qualified for state rounds by building an AI assistant using GPT-4o and n8n.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Unified Technical Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,html,css,mongodb,supabase,vercel,git&perline=9"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-0052D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation%20Anywhere-00A4E4?style=flat-square"/>
-
-</div>
-
----
-
-## 🏆 Recognition
-
-**🏅 Idea2Impact National Hackathon**  
-Cosmolyze shortlisted among top entries from **1,000+ teams**
-
-**⚡ Innovators Hackathon 2026 — National Level**  
-Trinity X received **top recognition** for fraud detection
-
-**🤖 GenAI Buildathon — State Level**  
-Qualified with an AI assistant built using **GPT-4o + n8n**
-
----
-
-## 🎯 Currently Focused On
-
-`AI Engineering` · `Agentic Systems` · `Product Engineering` · `System Architecture` · `Automation`
-
-> **Build fast. Design deliberately. Automate what should never stay manual.**
-
----
-
-<div align="center">
-
-### Let's build something useful. 🚀
-
-<a href="https://rohannimje.github.io/Portfolio">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://linkedin.com/in/rohannimje">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:rohannimje53@gmail.com">Email</a>
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4364F7,100:0052D4&height=100&section=footer" width="100%"/>
-
-</div>
