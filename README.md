@@ -73,6 +73,14 @@
 </div>
 
 ---
+
+## 🏆 Key Recognitions & Hackathons
+
+- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Shortlisted among top national entries out of **1,000+ teams** for Cosmolyze.
+- 🥇 **Innovators Hackathon 2026 (National Level):** Secured top recognition for Trinity X AI fraud detection prototype.
+- 🚀 **GenAI Buildathon (State Level):** Qualified for state rounds by building an AI assistant using GPT-4o and n8n.
+
+---
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -88,16 +96,6 @@
 <img src="https://img.shields.io/badge/Automation%20Anywhere-00A4E4?style=flat-square"/>
 
 </div>
-
-
-## 🏆 Key Recognitions & Hackathons
-
-- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Shortlisted among top national entries out of **1,000+ teams** for Cosmolyze.
-- 🥇 **Innovators Hackathon 2026 (National Level):** Secured top recognition for Trinity X AI fraud detection prototype.
-- 🚀 **GenAI Buildathon (State Level):** Qualified for state rounds by building an AI assistant using GPT-4o and n8n.
-
----
-
 ## 🛠️ Unified Technical Stack
 
 <div align="center">
