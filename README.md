@@ -85,15 +85,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,html,css,mongodb,supabase,vercel,git&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,html,css,mongodb,supabase,vercel,git&perline=9" width="650"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-0052D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation%20Anywhere-00A4E4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-0052D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation%20Anywhere-00A4E4?style=for-the-badge"/>
 
 </div>
 
