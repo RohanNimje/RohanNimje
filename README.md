@@ -1,116 +1,93 @@
 <div align="center">
 
-<!-- Dynamic Animated Typing Banner -->
-<a href="https://github.com/RohanNimje">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Rohan+Nimje+👋;AI+Systems+%7C+Solution+Architect;0-to-1+Product+Builder;Turning+Ideas+into+Scalable+Reality" alt="Typing SVG" />
-</a>
+<!-- Modern Animated SVG Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Rohan%20Nimje&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20%7C%20Solution%20Architect%20%7C%20Product%20Builder&descFontSize=20&descAlignY=62" width="100%" alt="Rohan Nimje Banner"/>
 
-<p align="center">
-  <em>Bridging 0-to-1 Product Strategy, Scalable Cloud Architecture, & Deep AI Execution</em>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RohanNimje)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohannimje.github.io/Portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohannimje53@gmail.com)
 
-<!-- Social & Contact Badges -->
-<p align="center">
-  <a href="https://github.com/RohanNimje"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/RohanNimje"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://rohannimje.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:rohannimje53@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+---
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=RohanNimje&label=Profile%20Views&color=00C6FF&style=flat-square" alt="Profile Views" />
+### 💡 *Bridging 0-to-1 Product Strategy, Scalable Cloud Architecture, & Deep AI Execution*
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics & Impact
+## 🎯 Profile Capabilities Matrix (3-in-1 Role Alignment)
+
+> *Designed for APM Leaders, Enterprise Solution Architects, and Senior Engineering Leads.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanNimje&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Rohan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNimje&theme=tokyonight&hide_border=true&background=0D1117" height="192px" alt="Rohan's Streak" />
+
+| 🟢 As an **Associate Product Manager** | 🔵 As a **Solution Architect** | 🟣 As a **Software Engineer** |
+| :--- | :--- | :--- |
+| • **0-to-1 Product Execution:** Shipped MVPs from scoping to launch in **< 2 weeks**. | • **Cloud Data Synchronization:** Optimized Supabase/MongoDB pipelines cutting latency by **35%**. | • **Full-Stack Execution:** Modern React, Node.js, Python, & Tailwind CSS architectures. |
+| • **User Adoption & Retention:** Scaled ScanZy Rewards to **100+ active local users**. | • **Sub-2s Latency Systems:** Engineered CV inference pipelines operating at **< 2 second** response time. | • **Autonomous AI Agents:** Production LLM workflows via **MCP & n8n** integration. |
+| • **Solving User Friction:** Replaced manual skin choice paralysis with AI algorithmic recommendations. | • **High-Availability APIs:** Multi-tier REST protocols and automated backend pipelines. | • **Rapid Prototyping:** National Hackathon Winner (**Idea2Impact Top 1000**). |
+
 </div>
 
-<br/>
-
-## 🎯 Profile Capabilities Matrix
-
-> *Engineered for APM Leaders, Enterprise Solution Architects, and Senior Engineering Teams.*
-
-| 🟢 **Product Management (APM)** | 🔵 **Solution Architecture** | 🟣 **Software Engineering** |
-| :--- | :--- | :--- |
-| **0-to-1 Execution:** Shipped MVPs from scoping to launch in **< 2 weeks**. | **Cloud Sync:** Optimized Supabase/MongoDB pipelines cutting latency by **35%**. | **Full-Stack:** React, Node.js, Python, & modern component systems. |
-| **User Adoption:** Scaled ScanZy Rewards to **100+ active local users**. | **Sub-2s Latency:** Engineered CV inference pipelines for real-time response. | **AI Agents:** Production LLM workflows via **MCP, n8n**, and GPT-4o. |
-| **Friction Resolution:** Replaced manual user choices with AI algorithms. | **Infrastructure:** Multi-tier REST protocols and autonomous background jobs. | **UI/UX Design:** Integrated Figma workflows for pixel-perfect frontends. |
-
-<br/>
+---
 
 ## 🚀 Experience & Startup Engineering
 
 ### 🛒 **ScanZy Rewards** *(01/2026 – Present)*
-* **Product Strategy:** Engineered a 0-to-1 retail loyalty platform replacing expensive hardware with dynamic QR stickers, driving rapid local adoption.
-* **System Architecture:** Designed multi-tier cloud databases using **MongoDB & Supabase**, securing transaction integrity and cutting cross-platform latency.
-* **Workflow Automation:** Built autonomous API integration pipelines via **n8n & REST protocols**, completely automating merchant data processing.
+* **Product & Business Strategy:** Engineered a 0-to-1 retail loyalty platform replacing expensive hardware with dynamic QR stickers, scaling adoption to **100+ local users**.
+* **System Architecture:** Designed multi-tier cloud database architecture using **MongoDB & Supabase**, cutting cross-platform data sync latency by **35%** and securing transaction integrity.
+* **Workflow Automation:** Engineered autonomous API integration pipelines via **n8n & REST protocols**, automating 100% of merchant data processing and background workflows.
+* **Execution Velocity:** Shipped production-ready web MVPs from initial user requirement scoping to cloud deployment in **under 2 weeks** utilizing Vercel and modern component systems.
 
-<br/>
+---
 
 ## 🔬 Featured Technical Projects
 
-<details open>
-<summary><b>1. 🧠 SmartCareer AI – Virtual Placement Officer (Hackathon '26)</b></summary>
-<br>
-<blockquote>
-  <b>Stack:</b> <code>GPT-4o</code> • <code>Python</code> • <code>LLM Pipelines</code><br>
-  <b>Impact:</b> Architected an AI-powered placement assistant tailored for competitive technical events. Engineered deep LLM interactions to automate and personalize career guidance workflows. 
-</blockquote>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>2. 🧪 Cosmolyze – AI Skin Analysis & Recommender</b></summary>
-<br>
-<blockquote>
-  <b>Stack:</b> <code>Computer Vision</code> • <code>React</code> • <code>Node.js</code> • <code>Vercel</code><br>
-  <b>Impact:</b> Solved consumer choice paralysis by analyzing facial scans to recommend dermatological ingredients (Niacinamide, Salicylic Acid). Operates at <b>sub-2s latency</b>. Shortlisted in top 1,000 for <b>Idea2Impact National Hackathon</b>.
-</blockquote>
-</details>
+### 1. 🧪 **Cosmolyze – AI Skin Analysis & Recommender**
+*`Vercel` • `MongoDB` • `Supabase` • `Node.js` • `React` • `Computer Vision`*
 
-<details open>
-<summary><b>3. 🛡️ Trinity X – AI Infrastructure Monitor</b></summary>
-<br>
-<blockquote>
-  <b>Stack:</b> <code>Python</code> • <code>OpenAI API</code> • <code>Real-time Data</code><br>
-  <b>Impact:</b> Developed a fraud-detection automation engine processing live physical infrastructure data. Won top recognition at the 48-hour <b>Innovators Hackathon 2026 (NMIET x AIC T-Hub)</b>.
-</blockquote>
-</details>
+- **Product Vision:** Solved consumer choice paralysis by analyzing facial scans to recommend specific active dermatological ingredients (*Niacinamide, Salicylic Acid, Vitamin C*).
+- **Architectural Latency:** Architected a real-time computer vision inference pipeline that processes camera inputs with automated decision logic in **sub-2-second (< 2s)** response time.
 
-<br/>
+---
 
-## 🏆 Achievements & Cloud Certifications
+### 2. 🛡️ **Trinity X – AI Infrastructure Monitor**
+*`Python` • `OpenAI API` • `Real-time Verification Data`*
 
-- 🥇 **Innovators Hackathon 2026 (National Level):** Top recognition for Trinity X AI prototype.
-- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Top 1,000 national entries for Cosmolyze out of thousands of teams.
-- 🚀 **GenAI Buildathon (State Level):** Advanced rounds qualifier building AI assistants with n8n and GPT-4o.
-- ☁️ **Cloud & CRM Badges:** Completed rigorous technical labs on Google Cloud Arcade (GKE, Firebase) and Salesforce Trailhead.
+- Developed an AI automation engine to detect physical infrastructure fraud by processing live verification data.
+- Pitched at **Innovators Hackathon 2026 (NMIET x AIC T-Hub)** during a 48-hour national sprint, securing top recognition.
 
-<br/>
+---
+
+### 3. 🤖 **AI Agent Development with MCP & Cursor IDE**
+*`Model Context Protocol (MCP)` • `Cursor IDE` • `LLM APIs`*
+
+- Built production-ready workflows connecting Large Language Models (LLMs) with live external APIs using Model Context Protocol (MCP).
+
+</div>
+
+---
+
+## 🏆 Key Recognitions & Hackathons
+
+- 🥉 **Idea2Impact National Hackathon (Hyderabad):** Shortlisted among top national entries out of **1,000+ teams** for Cosmolyze.
+- 🥇 **Innovators Hackathon 2026 (National Level):** Secured top recognition for Trinity X AI fraud detection prototype.
+- 🚀 **GenAI Buildathon (State Level):** Qualified for state rounds by building an AI assistant using GPT-4o and n8n.
+
+---
 
 ## 🛠️ Unified Technical Stack
 
 <div align="center">
-  <p><strong>Languages & Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tailwind,html,css&perline=10" />
-  </a>
-  <br>
-  <p><strong>Cloud, Databases & AI</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase,gcp,firebase,github,git,figma,vercel&perline=10" />
-  </a>
-</div>
 
-<br/>
-
----
-<div align="center">
-  <i>Let's build something scalable. Drop me an email or connect on LinkedIn!</i>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
