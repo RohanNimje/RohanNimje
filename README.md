@@ -34,8 +34,8 @@
 ## 🚀 Experience & Startup Engineering
 
 ### 🛒 **ScanZy Rewards** *(01/2026 – Present)*
-* **Product & Business Strategy:** Engineered a 0-to-1 retail loyalty platform replacing expensive hardware with dynamic QR stickers, scaling adoption to **100+ local users**[cite: 1, 3].
-* **System Architecture:** Designed multi-tier cloud database architecture using **MongoDB & Supabase**, cutting cross-platform data sync latency by **35%** and securing transaction integrity[cite: 2, 3].
+* **Product & Business Strategy:** Engineered a 0-to-1 retail loyalty platform replacing expensive hardware with dynamic QR stickers, scaling adoption to **100+ local users**.
+* **System Architecture:** Designed multi-tier cloud database architecture using **MongoDB & Supabase**, cutting cross-platform data sync latency by **35%** and securing transaction integrity.
 * **Workflow Automation:** Engineered autonomous API integration pipelines via **n8n & REST protocols**, automating 100% of merchant data processing and background workflows.
 * **Execution Velocity:** Shipped production-ready web MVPs from initial user requirement scoping to cloud deployment in **under 2 weeks** utilizing Vercel and modern component systems.
 
@@ -46,25 +46,25 @@
 <div align="center">
 
 ### 1. 🧪 **Cosmolyze – AI Skin Analysis & Recommender**
-*`Vercel` • `MongoDB` • `Supabase` • `Node.js` • `React` • `Computer Vision`*[cite: 1, 2, 3]
+*`Vercel` • `MongoDB` • `Supabase` • `Node.js` • `React` • `Computer Vision`*
 
-- **Product Vision:** Solved consumer choice paralysis by analyzing facial scans to recommend specific active dermatological ingredients (*Niacinamide, Salicylic Acid, Vitamin C*)[cite: 1, 3].
-- **Architectural Latency:** Architected a real-time computer vision inference pipeline that processes camera inputs with automated decision logic in **sub-2-second (< 2s)** response time[cite: 1, 2, 3].
+- **Product Vision:** Solved consumer choice paralysis by analyzing facial scans to recommend specific active dermatological ingredients (*Niacinamide, Salicylic Acid, Vitamin C*).
+- **Architectural Latency:** Architected a real-time computer vision inference pipeline that processes camera inputs with automated decision logic in **sub-2-second (< 2s)** response time.
 
 ---
 
 ### 2. 🛡️ **Trinity X – AI Infrastructure Monitor**
-*`Python` • `OpenAI API` • `Real-time Verification Data`*[cite: 1, 2, 3]
+*`Python` • `OpenAI API` • `Real-time Verification Data`*
 
-- Developed an AI automation engine to detect physical infrastructure fraud by processing live verification data[cite: 1, 2, 3].
-- Pitched at **Innovators Hackathon 2026 (NMIET x AIC T-Hub)** during a 48-hour national sprint, securing top recognition[cite: 1, 2, 3].
+- Developed an AI automation engine to detect physical infrastructure fraud by processing live verification data.
+- Pitched at **Innovators Hackathon 2026 (NMIET x AIC T-Hub)** during a 48-hour national sprint, securing top recognition.
 
 ---
 
 ### 3. 🤖 **AI Agent Development with MCP & Cursor IDE**
-*`Model Context Protocol (MCP)` • `Cursor IDE` • `LLM APIs`*[cite: 1, 2, 3]
+*`Model Context Protocol (MCP)` • `Cursor IDE` • `LLM APIs`*
 
-- Built production-ready workflows connecting Large Language Models (LLMs) with live external APIs using Model Context Protocol (MCP)[cite: 1, 2, 3].
+- Built production-ready workflows connecting Large Language Models (LLMs) with live external APIs using Model Context Protocol (MCP).
 
 </div>
 
