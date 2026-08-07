@@ -21,11 +21,15 @@
 
 <div align="center">
 
-| 🟢 As an **Associate Product Manager** | 🔵 As a **Solution Architect** | 🟣 As a **Software Engineer** |
-| :--- | :--- | :--- |
-| • **0-to-1 Product Execution:** Shipped MVPs from scoping to launch in **< 2 weeks**. | • **Cloud Data Synchronization:** Optimized Supabase/MongoDB pipelines cutting latency by **35%**. | • **Full-Stack Execution:** Modern React, Node.js, Python, & Tailwind CSS architectures. |
-| • **User Adoption & Retention:** Scaled ScanZy Rewards to **100+ active local users**. | • **Sub-2s Latency Systems:** Engineered CV inference pipelines operating at **< 2 second** response time. | • **Autonomous AI Agents:** Production LLM workflows via **MCP & n8n** integration. |
-| • **Solving User Friction:** Replaced manual skin choice paralysis with AI algorithmic recommendations. | • **High-Availability APIs:** Multi-tier REST protocols and automated backend pipelines. | • **Rapid Prototyping:** National Hackathon Winner (**Idea2Impact Top 1000**). |
+## ⚡ What I Do
+
+| 🚀 Product | 🏗️ Architecture | 🤖 AI & Engineering |
+|:---|:---|:---|
+| 0→1 MVPs | Cloud data systems | LLM applications |
+| User-focused solutions | API architectures | Agentic AI |
+| Rapid prototyping | MongoDB + Supabase | Computer Vision |
+| Product execution | Performance optimization | MCP + n8n |
+| Workflow design | Scalable foundations | RPA Automation |
 
 </div>
 
