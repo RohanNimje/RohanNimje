@@ -2,6 +2,7 @@
 
 <!-- Modern Animated SVG Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:0052D4,100:00C6FF&height=220&section=header&text=Rohan%20Nimje&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20Intern%20%40%20Techvruk%20%7C%20Generative%20AI%20%E2%80%A2%20Agentic%20Workflows&descFontSize=18&descAlignY=62" width="100%"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohannimje/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohannimje.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohannimje53@gmail.com)
